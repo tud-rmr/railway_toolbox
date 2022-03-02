@@ -1,0 +1,11 @@
+# Folders
+slprj/
+
+# Files
+Thumbs.db
+_matlab_helperFcns/PlotGoogleMap/api_key.mat
+*.slxc
+*.mex*
+*.mdl.*
+*.slx.r*
+*.asv
